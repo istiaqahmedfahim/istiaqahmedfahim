@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ I am a passionate Python Developer & ML Researcher. With hands-on experience in developing features of automated testing software and providing global training, I specialize in creating efficient, client-focused solutions that meet diverse business needs.<br>📚 I'm currently upgrading my skillsets on Machine Learning frameworks.</p>
+<p align="center">✨ I am a passionate Python Developer & ML Researcher. With hands-on experience in developing ML-DL-based models, features of automated testing software and IOT based projects, I specialize in creating efficient, client-focused solutions that meet diverse business needs.<br>📚 I'm currently upgrading my skillsets on Advanced Machine Learning frameworks.</p>
 
 ###
 
